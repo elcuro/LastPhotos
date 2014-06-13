@@ -1,0 +1,15 @@
+{
+	"name": "LastPhotos",
+	"description": "Last photos from nodeattachments table",
+
+	"author": "Juraj Jancuska",
+	"authorEmail": "jjancuska@gmail.com",
+	"authorUrl": "",
+
+	"dependencies": {
+		"plugins": [
+			"Image2",
+			"Nodeattachment"
+		]
+	}
+}
